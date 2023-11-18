@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const calibration = input => {
+const calibration = (input) => {
   const looping = true;
   const changes = input.split("\n").map(Number);
   const freqs = new Set();
@@ -17,5 +17,5 @@ const calibration = input => {
 };
 
 fs.readFile("./input.txt", { encoding: "utf8" }, (err, input) =>
-  console.log(calibration(input))
+  console.log(calibration(input)),
 );

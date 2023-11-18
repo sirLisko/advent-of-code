@@ -2,16 +2,15 @@
   "name": "advent-of-code",
   "version": "1.0.0",
   "description": "collection of scripts for advent of code",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Luca Lischetti <luca@sirlisko.com> (https://sirlisko.com)",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^5.9.0",
-    "eslint-config-prettier": "^3.3.0",
-    "eslint-plugin-prettier": "^3.0.0",
-    "prettier": "^1.15.3"
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "prettier": "^3.1.0"
   }
 }
