@@ -29,14 +29,15 @@ The repository is organized by years. Each year has its own folder, and within e
 
 ## Languages
 
-- **2018**: JavaScript
+- **2015**: Javascript
+- **2018**: Javascript
 - **2022**: Python
 
 ## Running the Code
 
-To run a particular solution, navigate to the respective day's folder and execute the Python/JavaScript file. Ensure you have the respective language runtime installed on your system.
+To run a particular solution, navigate to the respective day's folder and execute the Python/Javascript file. Ensure you have the respective language runtime installed on your system.
 
-### JavaScript Example
+### Javascript Example
 
 ```bash
 node part1.js
