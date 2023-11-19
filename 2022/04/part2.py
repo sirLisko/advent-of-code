@@ -5,8 +5,7 @@ with open("input.txt", "r") as file:
         first_start, first_end = map(int, pair[0].split('-'))
         second_start, second_end = map(int, pair[1].split('-'))
 
-        if (first_start >= second_start and first_end <= second_end) \
-                or (second_start >= first_start and second_end <= first_end):
+        if not (first_end < second_start or second_end < first_start):
             result += 1
 
 print(result)
