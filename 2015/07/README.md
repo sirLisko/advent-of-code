@@ -17,7 +17,7 @@ Other possible gates include `OR` ([bitwise OR](https://en.wikipedia.org/wiki/Bi
 
 For example, here is a simple circuit:
 
-```
+```text
 123 -> x
 456 -> y
 x AND y -> d
@@ -30,7 +30,7 @@ NOT y -> i
 
 After it is run, these are the signals on the wires:
 
-```
+```text
 d: 72
 e: 507
 f: 492
