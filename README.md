@@ -29,8 +29,8 @@ The repository is organized by years. Each year has its own folder, and within e
 
 ## Languages
 
-- **2023**: Python
-- **2022**: Python
+- **2023**: Python 🐍
+- **2022**: Python 🐍
 - **2018**: Javascript
 - **2017**: Javascript
 - **2015**: Javascript
@@ -38,16 +38,16 @@ The repository is organized by years. Each year has its own folder, and within e
 ## Stats
 
 ```text
-[2023]  2*
-[2022]  8*
+[2023]  6⭐️
+[2022]  8⭐️
 [2021]
 [2020]
 [2019]
-[2018]  2*
-[2017]  2*
+[2018]  2⭐️
+[2017]  2⭐️
 [2016]
-[2015] 13*
-Total stars: 27*
+[2015] 13⭐️
+Total stars: 31⭐️
 ```
 
 ## Running the Code
